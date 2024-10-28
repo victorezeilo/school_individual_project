@@ -86,4 +86,5 @@ make sure to add your details below in the .param files:
 
 10. **Shared Hosting Standards**: The system should be compatible with the current shared hosting standards in general. This means that any machine set up to meet these standards should be able to run the package without any issues. Ensure that your hosting environment aligns with these standards for smooth operation.
 
-# if there is any issue or my explanation was not clear, please feel free to contact me.
+
+**If there is any issue, please feel free to reach out to me.**
