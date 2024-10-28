@@ -1,4 +1,19 @@
-# Project Pulse Read me file.
+# Project Pulse
+
+
+Project Pulse is a custom reporting system designed to improve project management and collaboration by addressing specific team needs not met by existing tools. The system enables project managers to register team members via CSV, set up projects with configurable reporting frequencies, and customize report formats. Key features include:
+
+- **User Management**: Automatic profile creation from CSV uploads, with secure credentials and email notifications for team access.
+- **Project Setup**: Project managers can create projects, set reporting schedules, customize report templates, and assign team members.
+- **Dashboards**: Both project managers and team members have tailored dashboards displaying report statuses and due dates, with automated email reminders.
+- **Project Tracking**: Managers can review submitted reports, leave feedback, and track pending reports in a categorized view.
+
+**Additional Requirements**: 
+The system emphasizes security through encrypted passwords and role-based access, a user-friendly interface, responsive design for multiple devices, and compatibility with popular web browsers.
+
+
+## Installation and Usage
+
 
 ## Online Deployment
 
