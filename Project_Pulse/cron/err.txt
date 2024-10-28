@@ -1,0 +1,174 @@
+sh: /home/phpbin/php: Success
+sh: /home/phpbin/php: Success
+sh: /home/phpbin/php: Success
+sh: /home/phpbin/php: Success
+sh: /home/phpbin/php: Success
+sh: php81: command not found
+sh: php81: command not found
+sh: /opt/php81/bin/php: Success
+sh: /opt/php81/bin/php: Success
+sh: /opt/php81/bin/php: Permission denied
+sh: /opt/php81/bin/php: Permission denied
+sh: /opt/php81/bin/php: Success
+sh: /opt/php81/bin/php: Permission denied
+sh: /opt/php81/bin/php: Permission denied
+sh: /opt/php81/bin/php: Permission denied
+Could not open input file: home/html/bookdoconline.com/public_html/cron/cron.php
+2022-11-04 22:37:10	SERVER -> CLIENT: 220-rsx.websitewelcome.com ESMTP Exim 4.95 #2 Fri, 04 Nov 2022 17:37:10 -0500 
+                   	                  220-We do not authorize the use of this system to transport unsolicited, 
+                   	                  220 and/or bulk e-mail.
+2022-11-04 22:37:10	CLIENT -> SERVER: EHLO ssh.dw127
+2022-11-04 22:37:10	SERVER -> CLIENT: 250-rsx.websitewelcome.com Hello dw127.nameserver.sk [195.181.250.39]
+                   	                  250-SIZE 52428800
+                   	                  250-8BITMIME
+                   	                  250-PIPELINING
+                   	                  250-PIPE_CONNECT
+                   	                  250-AUTH PLAIN LOGIN
+                   	                  250 HELP
+2022-11-04 22:37:10	CLIENT -> SERVER: AUTH LOGIN
+2022-11-04 22:37:10	SERVER -> CLIENT: 334 VXNlcm5hbWU6
+2022-11-04 22:37:10	CLIENT -> SERVER: [credentials hidden]
+2022-11-04 22:37:10	SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+2022-11-04 22:37:10	CLIENT -> SERVER: [credentials hidden]
+2022-11-04 22:37:10	SERVER -> CLIENT: 235 Authentication succeeded
+2022-11-04 22:37:10	CLIENT -> SERVER: MAIL FROM:<noreply@bookdoconline.com>
+2022-11-04 22:37:10	SERVER -> CLIENT: 250 OK
+2022-11-04 22:37:10	CLIENT -> SERVER: RCPT TO:<info@itmentors.com.pk>
+2022-11-04 22:37:11	SERVER -> CLIENT: 250 Accepted
+2022-11-04 22:37:11	CLIENT -> SERVER: DATA
+2022-11-04 22:37:11	SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+2022-11-04 22:37:11	CLIENT -> SERVER: Date: Fri, 4 Nov 2022 23:37:08 +0100
+2022-11-04 22:37:11	CLIENT -> SERVER: To: info@itmentors.com.pk
+2022-11-04 22:37:11	CLIENT -> SERVER: From: "bookdoconline.com" <noreply@bookdoconline.com>
+2022-11-04 22:37:11	CLIENT -> SERVER: Reply-To: "bookdoconline.com" <info@bookdoconline.com>
+2022-11-04 22:37:11	CLIENT -> SERVER: Subject: Your account reset information!
+2022-11-04 22:37:11	CLIENT -> SERVER: Message-ID: <yNmN4DOAx4CZ8bUCt5cnyvpxsSKVyFkieTkbYaOI@ssh.dw127>
+2022-11-04 22:37:11	CLIENT -> SERVER: X-Mailer: PHPMailer 6.6.5 (https://github.com/PHPMailer/PHPMailer)
+2022-11-04 22:37:11	CLIENT -> SERVER: MIME-Version: 1.0
+2022-11-04 22:37:11	CLIENT -> SERVER: Content-Type: multipart/alternative;
+2022-11-04 22:37:11	CLIENT -> SERVER:  boundary="b1_yNmN4DOAx4CZ8bUCt5cnyvpxsSKVyFkieTkbYaOI"
+2022-11-04 22:37:11	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2022-11-04 22:37:11	CLIENT -> SERVER:
+2022-11-04 22:37:11	CLIENT -> SERVER: This is a multi-part message in MIME format.
+2022-11-04 22:37:11	CLIENT -> SERVER:
+2022-11-04 22:37:11	CLIENT -> SERVER: --b1_yNmN4DOAx4CZ8bUCt5cnyvpxsSKVyFkieTkbYaOI
+2022-11-04 22:37:11	CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+2022-11-04 22:37:11	CLIENT -> SERVER:
+2022-11-04 22:37:11	CLIENT -> SERVER: Hello zubair72@hotmail.com
+2022-11-04 22:37:11	CLIENT -> SERVER: Your password reset link is given below, Please click the link below to reset your account password.
+2022-11-04 22:37:11	CLIENT -> SERVER: Reset URL: Click here to reset your bookdoconline.com acccount.
+2022-11-04 22:37:11	CLIENT -> SERVER: if the link above does not work copy and paste https://www.bookdoconline.com/user_pwd_reset.php?authkey=07c5434c9f4945c416450d6d7c79cbb0 into your web browser.
+2022-11-04 22:37:11	CLIENT -> SERVER: NOTE: Do not reply this notification it will go no where
+2022-11-04 22:37:11	CLIENT -> SERVER: Note: This email is sent from bookdoconline.com to zubair72@hotmail.com. If you are not intended recipient of this email or you have received this email in error then delete this email and related files immediately from your inbox and deleted folder too and take no further action.
+2022-11-04 22:37:11	CLIENT -> SERVER:
+2022-11-04 22:37:11	CLIENT -> SERVER: --b1_yNmN4DOAx4CZ8bUCt5cnyvpxsSKVyFkieTkbYaOI
+2022-11-04 22:37:11	CLIENT -> SERVER: Content-Type: text/html; charset=us-ascii
+2022-11-04 22:37:11	CLIENT -> SERVER:
+2022-11-04 22:37:11	CLIENT -> SERVER: <!DOCTYPE HTML>
+2022-11-04 22:37:11	CLIENT -> SERVER: <html>
+2022-11-04 22:37:11	CLIENT -> SERVER: <head>
+2022-11-04 22:37:11	CLIENT -> SERVER: <meta charset="utf-8">
+2022-11-04 22:37:11	CLIENT -> SERVER: <title>Account activation</title>
+2022-11-04 22:37:11	CLIENT -> SERVER: </head>
+2022-11-04 22:37:11	CLIENT -> SERVER:
+2022-11-04 22:37:11	CLIENT -> SERVER: <body style="margin: 0;padding: 0;-webkit-text-size-adjust: 100%;">
+2022-11-04 22:37:11	CLIENT -> SERVER: <div style="display:block; font:14px/25px Tahoma, Geneva, sans-serif; color:#31557e; max-width:800px; padding:20px;">
+2022-11-04 22:37:11	CLIENT -> SERVER: <h3>Hello zubair72@hotmail.com</h3>
+2022-11-04 22:37:11	CLIENT -> SERVER: <p style="margin-top:20px">Your password reset link is given below, Please click the link below to reset your account password.</p>
+2022-11-04 22:37:11	CLIENT -> SERVER: <p style="margin-top:20px">Reset URL: <a href="https://www.bookdoconline.com/user_pwd_reset.php?authkey=07c5434c9f4945c416450d6d7c79cbb0">Click here</a> to reset your bookdoconline.com acccount.</p>
+2022-11-04 22:37:11	CLIENT -> SERVER: <p style="margin-top:20px">if the link above does not work copy and paste https://www.bookdoconline.com/user_pwd_reset.php?authkey=07c5434c9f4945c416450d6d7c79cbb0 into your web browser.</p>
+2022-11-04 22:37:11	CLIENT -> SERVER: <p style="margin-top:20px"><strong>NOTE: Do not reply this notification it will go no where</strong></p>
+2022-11-04 22:37:11	CLIENT -> SERVER: <p style="margin-top:20px">Note: This email is sent from bookdoconline.com to zubair72@hotmail.com. If you are not intended recipient of this email or you have received this email in error then delete this email and related files immediately from your inbox and deleted folder too and take no further action.</p>
+2022-11-04 22:37:11	CLIENT -> SERVER:
+2022-11-04 22:37:11	CLIENT -> SERVER: </div>
+2022-11-04 22:37:11	CLIENT -> SERVER: </body>
+2022-11-04 22:37:11	CLIENT -> SERVER: </html>
+2022-11-04 22:37:11	CLIENT -> SERVER:
+2022-11-04 22:37:11	CLIENT -> SERVER:
+2022-11-04 22:37:11	CLIENT -> SERVER: --b1_yNmN4DOAx4CZ8bUCt5cnyvpxsSKVyFkieTkbYaOI--
+2022-11-04 22:37:11	CLIENT -> SERVER:
+2022-11-04 22:37:11	CLIENT -> SERVER: .
+2022-11-04 22:37:11	SERVER -> CLIENT: 250 OK id=1or5JG-003QpE-3T
+2022-11-04 22:37:11	CLIENT -> SERVER: QUIT
+2022-11-04 22:37:11	SERVER -> CLIENT: 221 rsx.websitewelcome.com closing connection
+sh: /home/phpbin/php: Success
+2022-11-04 22:39:18	SERVER -> CLIENT: 220-rsx.websitewelcome.com ESMTP Exim 4.95 #2 Fri, 04 Nov 2022 17:39:18 -0500 
+                   	                  220-We do not authorize the use of this system to transport unsolicited, 
+                   	                  220 and/or bulk e-mail.
+2022-11-04 22:39:18	CLIENT -> SERVER: EHLO ssh.dw127
+2022-11-04 22:39:18	SERVER -> CLIENT: 250-rsx.websitewelcome.com Hello dw127.nameserver.sk [195.181.250.39]
+                   	                  250-SIZE 52428800
+                   	                  250-8BITMIME
+                   	                  250-PIPELINING
+                   	                  250-PIPE_CONNECT
+                   	                  250-AUTH PLAIN LOGIN
+                   	                  250 HELP
+2022-11-04 22:39:18	CLIENT -> SERVER: AUTH LOGIN
+2022-11-04 22:39:18	SERVER -> CLIENT: 334 VXNlcm5hbWU6
+2022-11-04 22:39:18	CLIENT -> SERVER: [credentials hidden]
+2022-11-04 22:39:18	SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+2022-11-04 22:39:18	CLIENT -> SERVER: [credentials hidden]
+2022-11-04 22:39:18	SERVER -> CLIENT: 235 Authentication succeeded
+2022-11-04 22:39:18	CLIENT -> SERVER: MAIL FROM:<noreply@bookdoconline.com>
+2022-11-04 22:39:18	SERVER -> CLIENT: 250 OK
+2022-11-04 22:39:18	CLIENT -> SERVER: RCPT TO:<info@itmentors.com.pk>
+2022-11-04 22:39:19	SERVER -> CLIENT: 250 Accepted
+2022-11-04 22:39:19	CLIENT -> SERVER: DATA
+2022-11-04 22:39:19	SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+2022-11-04 22:39:19	CLIENT -> SERVER: Date: Fri, 4 Nov 2022 23:39:16 +0100
+2022-11-04 22:39:19	CLIENT -> SERVER: To: info@itmentors.com.pk
+2022-11-04 22:39:19	CLIENT -> SERVER: From: "bookdoconline.com" <noreply@bookdoconline.com>
+2022-11-04 22:39:19	CLIENT -> SERVER: Reply-To: "bookdoconline.com" <info@bookdoconline.com>
+2022-11-04 22:39:19	CLIENT -> SERVER: Subject: Your account reset information!
+2022-11-04 22:39:19	CLIENT -> SERVER: Message-ID: <5szzGsvpTPuBdUpqaTZHkntLVricXl9sRKYHG4iyNEo@ssh.dw127>
+2022-11-04 22:39:19	CLIENT -> SERVER: X-Mailer: PHPMailer 6.6.5 (https://github.com/PHPMailer/PHPMailer)
+2022-11-04 22:39:19	CLIENT -> SERVER: MIME-Version: 1.0
+2022-11-04 22:39:19	CLIENT -> SERVER: Content-Type: multipart/alternative;
+2022-11-04 22:39:19	CLIENT -> SERVER:  boundary="b1_5szzGsvpTPuBdUpqaTZHkntLVricXl9sRKYHG4iyNEo"
+2022-11-04 22:39:19	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2022-11-04 22:39:19	CLIENT -> SERVER:
+2022-11-04 22:39:19	CLIENT -> SERVER: This is a multi-part message in MIME format.
+2022-11-04 22:39:19	CLIENT -> SERVER:
+2022-11-04 22:39:19	CLIENT -> SERVER: --b1_5szzGsvpTPuBdUpqaTZHkntLVricXl9sRKYHG4iyNEo
+2022-11-04 22:39:19	CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+2022-11-04 22:39:19	CLIENT -> SERVER:
+2022-11-04 22:39:19	CLIENT -> SERVER: Hello zubair72@hotmail.com
+2022-11-04 22:39:19	CLIENT -> SERVER: Your password reset link is given below, Please click the link below to reset your account password.
+2022-11-04 22:39:19	CLIENT -> SERVER: Reset URL: Click here to reset your bookdoconline.com acccount.
+2022-11-04 22:39:19	CLIENT -> SERVER: if the link above does not work copy and paste https://www.bookdoconline.com/user_pwd_reset.php?authkey=b558dad420af8650ff10615fafbfa6f4 into your web browser.
+2022-11-04 22:39:19	CLIENT -> SERVER: NOTE: Do not reply this notification it will go no where
+2022-11-04 22:39:19	CLIENT -> SERVER: Note: This email is sent from bookdoconline.com to zubair72@hotmail.com. If you are not intended recipient of this email or you have received this email in error then delete this email and related files immediately from your inbox and deleted folder too and take no further action.
+2022-11-04 22:39:19	CLIENT -> SERVER:
+2022-11-04 22:39:19	CLIENT -> SERVER: --b1_5szzGsvpTPuBdUpqaTZHkntLVricXl9sRKYHG4iyNEo
+2022-11-04 22:39:19	CLIENT -> SERVER: Content-Type: text/html; charset=us-ascii
+2022-11-04 22:39:19	CLIENT -> SERVER:
+2022-11-04 22:39:19	CLIENT -> SERVER: <!DOCTYPE HTML>
+2022-11-04 22:39:19	CLIENT -> SERVER: <html>
+2022-11-04 22:39:19	CLIENT -> SERVER: <head>
+2022-11-04 22:39:19	CLIENT -> SERVER: <meta charset="utf-8">
+2022-11-04 22:39:19	CLIENT -> SERVER: <title>Account activation</title>
+2022-11-04 22:39:19	CLIENT -> SERVER: </head>
+2022-11-04 22:39:19	CLIENT -> SERVER:
+2022-11-04 22:39:19	CLIENT -> SERVER: <body style="margin: 0;padding: 0;-webkit-text-size-adjust: 100%;">
+2022-11-04 22:39:19	CLIENT -> SERVER: <div style="display:block; font:14px/25px Tahoma, Geneva, sans-serif; color:#31557e; max-width:800px; padding:20px;">
+2022-11-04 22:39:19	CLIENT -> SERVER: <h3>Hello zubair72@hotmail.com</h3>
+2022-11-04 22:39:19	CLIENT -> SERVER: <p style="margin-top:20px">Your password reset link is given below, Please click the link below to reset your account password.</p>
+2022-11-04 22:39:19	CLIENT -> SERVER: <p style="margin-top:20px">Reset URL: <a href="https://www.bookdoconline.com/user_pwd_reset.php?authkey=b558dad420af8650ff10615fafbfa6f4">Click here</a> to reset your bookdoconline.com acccount.</p>
+2022-11-04 22:39:19	CLIENT -> SERVER: <p style="margin-top:20px">if the link above does not work copy and paste https://www.bookdoconline.com/user_pwd_reset.php?authkey=b558dad420af8650ff10615fafbfa6f4 into your web browser.</p>
+2022-11-04 22:39:19	CLIENT -> SERVER: <p style="margin-top:20px"><strong>NOTE: Do not reply this notification it will go no where</strong></p>
+2022-11-04 22:39:19	CLIENT -> SERVER: <p style="margin-top:20px">Note: This email is sent from bookdoconline.com to zubair72@hotmail.com. If you are not intended recipient of this email or you have received this email in error then delete this email and related files immediately from your inbox and deleted folder too and take no further action.</p>
+2022-11-04 22:39:19	CLIENT -> SERVER:
+2022-11-04 22:39:19	CLIENT -> SERVER: </div>
+2022-11-04 22:39:19	CLIENT -> SERVER: </body>
+2022-11-04 22:39:19	CLIENT -> SERVER: </html>
+2022-11-04 22:39:19	CLIENT -> SERVER:
+2022-11-04 22:39:19	CLIENT -> SERVER:
+2022-11-04 22:39:19	CLIENT -> SERVER: --b1_5szzGsvpTPuBdUpqaTZHkntLVricXl9sRKYHG4iyNEo--
+2022-11-04 22:39:19	CLIENT -> SERVER:
+2022-11-04 22:39:19	CLIENT -> SERVER: .
+2022-11-04 22:39:19	SERVER -> CLIENT: 250 OK id=1or5LK-003S3b-4e
+2022-11-04 22:39:19	CLIENT -> SERVER: QUIT
+2022-11-04 22:39:19	SERVER -> CLIENT: 221 rsx.websitewelcome.com closing connection
+sh: /home/phpbin/php: Success
+sh: /home/phpbin/php: No such file or directory
+sh: /home/phpbin/php: Success

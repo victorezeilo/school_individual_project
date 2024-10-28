@@ -1,0 +1,21 @@
+# System and IDE files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.sublime-workspace
+
+# PHP cache and session files
+*.log
+*.cache
+*.bak
+*.swp
+*.session
+
+# Ignoring assets (optional, if large files are non-essential for repository)
+assets/
+
+# Other temporary files
+*.tmp
+*.log
+*.bak
